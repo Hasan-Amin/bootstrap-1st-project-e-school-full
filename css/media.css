@@ -1,0 +1,291 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+
+/*header start*/
+header{
+	padding: 5px 0;
+	
+}
+body{
+	padding-top: 95px;
+}
+.logo{
+	width: 180px;
+}
+.menu ul li a{
+	margin-bottom: 10px;
+	padding: 0 10px !important;
+}
+
+/*banner start*/
+.banner{
+	padding: 0 0 60px;
+}
+.b-text{
+	text-align: center;
+}
+.b-h1{
+	margin: 10px 0px 20px;
+	font-size: 30px;
+	line-height: 40px;
+}
+.b-p2{
+	margin: 0;
+	line-height: 30px;
+}
+.b-img{
+	margin-bottom: 30px;
+	padding: 0;
+}
+/*footer top start*/
+.footer-top{
+	text-align: center;
+	padding: 55px 0 20px;
+}
+.ft-details{
+	margin-bottom: 35px;
+	padding-right: 0;
+}
+.ft-links{
+	margin-bottom: 35px;
+}
+/*feature start*/
+.c-padding{
+	padding-bottom: 60px;	
+}
+.f-img{
+	width: 56px;
+	height: 72px;
+	margin-bottom: 22px !important;
+}
+.f-h2{
+	font-size: 20px;
+	line-height: 30px;
+}
+/*course start*/
+.c-h1{
+	font-size: 25px;
+	line-height: 40px;
+}
+.co-item{
+	margin: 30px 0 0;
+padding: 20px 15px 20px;
+}
+.co-h2{
+	font-size: 20px;
+}
+.co-left img, .co-right img {
+    width: 20px;
+}
+.co-left span, .co-right span{
+	font-size: 15px;
+	font-weight: 400px;
+}
+.lii:not(:last-child) {
+    margin-right: 2px;
+}
+/*testimony*/
+.testimony{
+	padding-bottom: 60px;
+}
+.t-item{
+	margin-top: 30px;
+}
+.t-img{
+		padding: 0 50px 20px;
+}
+.t-text{
+	text-align: center;
+}	 
+}
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+/*header start*/
+header{
+	padding: 5px 0;
+	
+}
+body{
+	padding-top: 95px;
+}
+.logo{
+	width: 180px;
+}
+.menu ul li a{
+	margin-bottom: 10px;
+	padding: 0 10px !important;
+}
+/*banner start*/
+.banner{
+	padding: 0 0 60px;
+}
+.b-text{
+	text-align: center;
+}
+.b-h1{
+	margin: 10px 100px 20px;
+	font-size: 30px;
+	line-height: 40px;
+}
+.b-p2{
+	margin: 0 40px;
+	line-height: 30px;
+}
+.b-img{
+	margin-bottom: 30px;
+	padding: 0 50px;
+}
+/*footer top start*/
+.footer-top{
+	text-align: center;
+}
+.ft-details{
+	margin-bottom: 35px;
+	padding-right: 70px;
+	padding-left: 70px;
+}
+/*feature start*/
+.c-padding{
+	padding-bottom: 60px;	
+}
+.f-img{
+	width: 56px;
+	height: 72px;
+	margin-bottom: 22px !important;
+}
+.f-h2{
+	font-size: 20px;
+	line-height: 30px;
+}
+/*course start*/
+.c-h1{
+	font-size: 25px;
+	line-height: 40px;
+	 }
+.co-item{
+	margin: 40px 50px 0;
+padding: 20px 15px 20px;
+}
+.co-h2{
+	font-size: 20px;
+}
+/*testimony*/
+.testimony{
+	padding-bottom: 60px;
+}
+.t-item{
+	margin-top: 30px;
+}
+.t-img{
+		padding: 0 120px 20px;
+}
+.t-text{
+	text-align: center;
+}
+}
+
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/*header start*/
+.menu ul li a{
+	margin-bottom: 10px;
+	padding: 0 10px !important;
+}
+/*banner start*/
+.b-text{
+	text-align: center;
+}
+.b-h1{
+	margin: 10px 130px 20px;
+	font-size: 40px;
+	line-height: 60px;
+}
+.b-p2{
+	margin: 0 100px;
+	line-height: 30px;
+}
+.b-img{
+	margin-bottom: 30px;
+	padding: 0 50px;
+}
+/*footer top start*/
+.footer-top{
+	text-align: center;
+}
+.ft-details{
+	margin-bottom: 35px;
+	padding-right: 80px;
+	padding-left: 80px;
+}
+/*feature start*/
+.c-padding{
+	padding-bottom: 80px;	
+}
+/*course start*/
+.co-item{
+margin: 40px 120px 0;}
+
+/*testimony*/
+.testimony{
+	padding-bottom: 80px;
+}
+.t-item{
+	margin-top: 40px;
+	}
+
+
+
+ }
+
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/*banner start*/
+.b-h1 {
+    margin: 10px 50px 20px 0;
+ }
+ /*feature start*/
+ .f-h2{
+
+	font-size: 20px;
+
+}
+/*course start*/
+.co-item{
+	padding: 20px 15px 25px;
+}
+.co-left img, .co-right img {
+    width: 20px;
+}
+.co-left span, .co-right span{
+	font-size: 15px;
+	font-weight: 400px;
+}
+.lii:not(:last-child) {
+    margin-right: 2px;
+}
+
+}
+
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+/*banner start*/
+.b-h1 {
+    margin: 10px 40px 20px 0;
+ }
+}
+
+
+/*Extra extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+	/*footer top start*/
+
+.ft-details{
+	padding-right: 130px;
+}
+}
